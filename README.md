@@ -8,7 +8,7 @@
 ## PoC list along with resources
 
 |  PoC's Name | Short Description | Repo |
-|---|---|---|
+|---|---|:---:|
 | Data Profiling  | Building a data profiling solution using S3, EMR, Athena, and Quicksight|[link](DataProfiling/)|
 
 
